@@ -1,0 +1,22 @@
+{
+  "name": "aprendiendo-las-flores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristofer-crego/Aprendiendo-Las-Flores.git"
+  },
+  "author": "Crego Cristofer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristofer-crego/Aprendiendo-Las-Flores/issues"
+  },
+  "homepage": "https://github.com/cristofer-crego/Aprendiendo-Las-Flores#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
